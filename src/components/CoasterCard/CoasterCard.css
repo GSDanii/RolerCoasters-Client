@@ -1,0 +1,10 @@
+.CoasterCard img {
+    height: 140px;
+    object-fit: cover;
+}
+
+.truncate {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
